@@ -1,4 +1,6 @@
-from datetime import datetime
+import time
 
-print("today:", datetime.today())
-print("now:", datetime.now())
+timestamp = 1572879180
+st = time.gmtime(timestamp)
+
+print(time.strftime("%d/%m/%Y %H:%M:%S"))
