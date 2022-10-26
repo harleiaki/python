@@ -1,3 +1,6 @@
+#para instalar o pandas e numpy no pycharm,
+#settings, Project:python, project interpreter, clicar no sinal de +, escrever pandas instalar, 
+# fazer o mesmo para numpy.
 #básico, estruturando pequenos dados.
 import pandas
 
